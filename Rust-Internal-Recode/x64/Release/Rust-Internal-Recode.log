@@ -1,0 +1,79 @@
+﻿  dllmain.cpp
+  pattern.cpp
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\pattern\pattern.cpp(76,16): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\pattern\pattern.cpp(86,16): warning C4244: 'return': conversion from 'uintptr_t' to 'uint32_t', possible loss of data
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(59,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(59,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(69,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(474,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(479,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(481,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(595,1): warning C4305: 'return': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(597,1): warning C4305: 'return': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(601,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(603,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(605,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\utils\vector.hpp(607,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(602,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(607,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(612,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(618,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(623,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(628,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(633,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(639,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(644,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(649,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(654,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(659,1): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\classes.hpp(1350,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\features\player_esp.hpp(238,72): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\features\player_esp.hpp(438,26): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\projectile.hpp(369,9): warning C4101: 'org': unreferenced local variable (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(152,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(165,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(177,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(208,115): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(409,60): warning C4244: '=': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(427,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(427,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(553,1): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(636,54): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(637,53): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(638,55): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(639,58): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(89,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(89,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(90,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(110,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(121,4): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(121,4): warning C4309: 'initializing': truncation of constant value (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(122,4): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(122,4): warning C4309: 'initializing': truncation of constant value (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(123,4): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(123,4): warning C4309: 'initializing': truncation of constant value (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(128,9): warning C4161: #pragma code_seg(pop...): more pops than pushes (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(314,22): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(353,43): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(449,13): warning C4101: 'm_szTranslated': unreferenced local variable (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(475,15): warning C4244: 'initializing': conversion from 't' to 'INT16', possible loss of data
+          with
+          [
+              t=uintptr_t
+          ] (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\hooks.hpp(908,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\rust.hpp(35,2): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(485): message : see reference to function template instantiation 'void rust::list<PlayerNameID *>::for_each<esp::draw_tool_cupboard::<lambda_843b76b0bb6601e56733cb0f1d562c9c>>(const F)' being compiled
+          with
+          [
+              F=esp::draw_tool_cupboard::<lambda_843b76b0bb6601e56733cb0f1d562c9c>
+          ] (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\gui\OnGUI.hpp(476): message : see reference to function template instantiation 'void rust::list<PlayerNameID *>::for_each<esp::draw_tool_cupboard::<lambda_843b76b0bb6601e56733cb0f1d562c9c>>(const F)' being compiled
+          with
+          [
+              F=esp::draw_tool_cupboard::<lambda_843b76b0bb6601e56733cb0f1d562c9c>
+          ] (compiling source file dllmain.cpp)
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\memory\il2cpp.hpp(232): warning C4715: 'mem::hook_virtual_function': not all control paths return a value
+C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\Rust-Internal-Recode\rust\rust.hpp(238): warning C4715: 'rust::classes::list::get_size': not all control paths return a value
+dllmain.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  Rust-Internal-Recode.vcxproj -> C:\Users\trevo\Downloads\neko-rust-internal-master\neko-rust-internal-master\x64\Release\Rust-Internal-Recode.dll
